@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+  .img-fluid{
+    background-size: auto;
+  }
+    
+ 
+ .carousel-inner img{
+height: 92vh;
+width: 100vw;
+ }
+ .maps{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 91vh;
+
+ }
+ .cards{
+  margin-top: 30px;
+ 
+ }
+.card{
+  box-shadow: 5px 5px 10px 1px #000000;
+  border-radius: 100px ;
+}
